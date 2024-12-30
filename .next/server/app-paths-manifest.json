@@ -1,0 +1,11 @@
+{
+  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
+  "/api/library/route": "app/api/library/route.js",
+  "/api/credits/route": "app/api/credits/route.js",
+  "/(dashboard)/(routes)/dashboard/page": "app/(dashboard)/(routes)/dashboard/page.js",
+  "/(dashboard)/(routes)/studio/page": "app/(dashboard)/(routes)/studio/page.js",
+  "/(dashboard)/(routes)/ai-tools/video/page": "app/(dashboard)/(routes)/ai-tools/video/page.js",
+  "/(dashboard)/(routes)/dashboard/library/page": "app/(dashboard)/(routes)/dashboard/library/page.js",
+  "/(dashboard)/(routes)/ai-tools/podcast/page": "app/(dashboard)/(routes)/ai-tools/podcast/page.js",
+  "/(dashboard)/(routes)/credits/page": "app/(dashboard)/(routes)/credits/page.js"
+}
